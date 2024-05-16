@@ -29,7 +29,7 @@ For your convenience, the following JSON files are prepared.
 - `/2024-05-16/signatures/unsigned_tx.json`
 
 This file includes the following grants:
-- [MsgGrant/MsgRevokeAllowance](https://github.com/cosmos/cosmos-sdk/blob/v0.46.14/proto/cosmos/feegrant/v1beta1/tx.proto#L16)
+- [MsgGrant/MsgRevokeAllowance](https://github.com/cosmos/cosmos-sdk/blob/v0.46.14/proto/cosmos/feegrant/v1beta1/tx.proto#L20)
     - This grant is needed for the `Staker Controller` to revoke existing fee allowance so that it can `MsgRevokeAllowance` and `MsgGrantAllowance` with the new options.
 - [MsgRevokeAllowance](https://github.com/cosmos/cosmos-sdk/blob/v0.46.14/proto/cosmos/feegrant/v1beta1/tx.proto#L20)
     - This message is needed for the `Grantee` to use transaction fees from the `Staker` multisig account.

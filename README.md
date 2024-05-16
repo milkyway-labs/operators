@@ -1,7 +1,5 @@
 # MilkyWay Operator 🥛
 
-![image](./banner.png)
-
 ## Overview
 
 This repository contains the essential information required for the opration of MilkyWay. 

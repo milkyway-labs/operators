@@ -26,7 +26,7 @@ The following multisig accounts are involved for this signing process.
 
 For your convenience, the following JSON files are prepared.
 
-- `/2024-05-16/signatures/unsigned_tx.json`
+- [/2024-05-16/signatures/unsigned_tx.json](https://github.com/milkyway-labs/operators/blob/main/2024-05-16/signatures/unsigned_tx.json)
 
 This file includes the following grants:
 - [MsgGrant/MsgRevokeAllowance](https://github.com/cosmos/cosmos-sdk/blob/v0.46.14/proto/cosmos/feegrant/v1beta1/tx.proto#L20)

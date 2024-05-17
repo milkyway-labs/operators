@@ -75,8 +75,8 @@ celestia-appd tx sign unsigned_tx.json \
 
 1. Fork this repository.
 
-2. Copy the `OPERATOR_NAME.txt` file and change the file name to your operator name.
+2. Sign tx with unsigned_tx.json file
 
-3. Input your signatures under the `2025-05-16/signatures` directory
+3. Input your signatures(signature_{OPERATOR_NAME}.json) under the `2025-05-16/signatures` directory
 
 4. Create a pull request
